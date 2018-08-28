@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Chris Parker on 28/8/18.
-//  Copyright © 2018 Chris Parker. All rights reserved.
-//
+
 
 import UIKit
 
