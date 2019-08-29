@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					DB8D704D2134D08200775484 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1030;
 					};
 				};
 			};
@@ -290,7 +291,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ChrisParker.GitHubFun;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -309,7 +310,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ChrisParker.GitHubFun;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
